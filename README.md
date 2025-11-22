@@ -1,9 +1,13 @@
-# ビルド方法
-Makefileに則ってbuildします。(ISOの生成)
+# Tuibian
+A Linux distro based on Debian for TUI, in development.
+
+## Build iso image with Makefile
 
 ```bash
 make all
 ```
+
+<!--
 
 ## ファイルについて
 - config/ - ディストリのビルドに関する情報、設定です。
@@ -37,3 +41,5 @@ echo "Welcome to Testbian!" > config/includes.chroot_after_packages/etc/profile.
 
 sudo lb build
 ```
+
+-->
