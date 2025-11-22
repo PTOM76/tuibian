@@ -1,5 +1,6 @@
 network-manager
 wpasupplicant
+net-tools
 sudo
 vim
 git
@@ -9,3 +10,6 @@ btop
 debconf
 dialog
 whiptail
+tar
+gzip
+bzip2
