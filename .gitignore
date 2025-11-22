@@ -21,3 +21,5 @@ binary/
 *.files
 *.contents
 binary.modified_timestamps
+
+config/includes.installer/
