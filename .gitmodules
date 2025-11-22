@@ -1,0 +1,9 @@
+[submodule "fmtui"]
+	path = app/fmtui
+	url = https://github.com/PTOM76/simple-tui-file-manager.git
+	branch = main
+
+[submodule "tuibian-menu"]
+	path = app/tuibian-menu
+	url = https://github.com/PTOM76/tuibian-menu.git
+	branch = main

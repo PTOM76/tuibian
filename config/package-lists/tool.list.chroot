@@ -1,0 +1,10 @@
+network-manager
+wpasupplicant
+sudo
+vim
+git
+curl
+htop
+debconf
+dialog
+whiptail
