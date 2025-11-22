@@ -5,6 +5,7 @@ vim
 git
 curl
 htop
+btop
 debconf
 dialog
 whiptail
