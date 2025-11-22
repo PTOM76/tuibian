@@ -1,1 +1,6 @@
+amd64-microcode
+intel-microcode
 firmware-linux-free
+firmware-atheros
+firmware-iwlwifi
+firmware-realtek
